@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376910963136",
+    "project_id": "shopping-app-c2fe7",
+    "storage_bucket": "shopping-app-c2fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376910963136:android:b8f74b2b7d3c530bcb6825",
+        "android_client_info": {
+          "package_name": "com.example.shopit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoG0YVbN6-Djg5ncXJbWDy8OWzXuYCGWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
